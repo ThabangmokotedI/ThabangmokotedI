@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Costing</title>
+    <link href="./practicestyle.css" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css2?family=Space+Mono&family=Ubuntu&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="aesthatics">
+        <img src="./costing logo.png">
+        <a href="./aboutus.html" target="_blank">About Us</a>
+        <a href="./idea.html" target="_blank">The Idea</a>
+        <a href="./theclient.html" target="_blank">Our Clients</a>
+        <a href="./thecompetitors.html" target="_blank">Competitors</a>
+        <a href="./costing.html" target="_blank">Costing</a>
+        <a href="./contactus.html" target="_blank">Contact Us</a>
+    </div> 
+    <div class="header">
+        <img src="./Cellphone+Laptop(5).png">
+        <p> <span id="heading">The world’s first Imprint <br>Technology</span>
+            <br>
+            <strong>Mint</strong> is the most unique way to secure your <br>mobile device. A one-of-a-kind password <br>that only works for you.
+        </p>
+        <a href="#" target="_blank">Contact Us</a>
+    </div>
+
+    <!--Price Plan-->
+    <h1 id="plan">Get the plan that’s right for you</h1> 
+
+    <!--US Price-->
+    <div class="price-section">
+       <p><span id="usa">USA<img src="./Costing_4.png"></span>
+        <span class="grey-font">Shipment not included</span>
+          <span id="rands">R</span><span id="money">169.99</span>
+          <span class="grey-font">per chip</span>
+       <a href="#">Order Now</a></p>
+       <ul>
+            <li class="service-list"><img src="./Costing_3.png">Dispatch Guarantee</li>
+            <li class="service-list"><img src="./Costing_3.png">Refund Policy</li>
+            <li class="service-list"><img src="./Costing_3.png">Best quality and competitive price.</li>
+        </ul>
+    </div>
+
+        <!--South African Price-->
+    <div class="price-section">
+        <p>
+            <span id="usa sa">SOUTH AFRICIA<img src="./about us (1).png"></span>
+            <span class="grey-font">Shipment not included</span>
+              <span id="rands">R</span><span id="money">149.99</span>
+              <span class="grey-font">per chip</span>
+           <a href="#">Order Now</a></p>
+           <ul>
+                <li class="service-list"><img src="./Costing_3.png">Dispatch Guarantee</li>
+                <li class="service-list"><img src="./Costing_3.png">Refund Policy</li>
+                <li class="service-list"><img src="./Costing_3.png">Best quality and competitive price.</li>
+            </ul>  
+        </p>
+    </div>
+        
+        <!--China Price-->
+    <div class = "price-section">
+        <p>
+            <span id="usa">CHINA<img src="./Costing_5.png"></span>
+            <span class="grey-font">Shipment not included</span>
+              <span id="rands">R</span><span id="money">229.99</span>
+              <span class="grey-font">per chip</span>
+           <a href="#">Order Now</a></p>
+           <ul>
+                <li class="service-list"><img src="./Costing_3.png">Dispatch Guarantee</li>
+                <li class="service-list"><img src="./Costing_3.png">Refund Policy</li>
+                <li class="service-list"><img src="./Costing_3.png">Best quality and competitive price.</li>
+            </ul>  
+        </p>
+    </div>
+
+    <!--Footer Section-->
+    <div id="footer">
+        <div id="footer-picture">
+            <img src="./Costing_6.png">
+        </div>
+
+        <h1 id="order-heading">Ready to order?</h1>
+        <div class="order-section">
+            <p id="get-ready">Get in contact with us</p><br>
+            <p>To: <em>Mint Imprint Tech Inc</em></p>
+            <label id="message-box">*Message:</label>
+            <textarea name="extra" rows="15" cols="200"></textarea><br>
+            <label id="quantity">Quality:</label>
+            <input type="number" id="quantity"><br>
+            <input id="agree" type="checkbox">
+            <span id="agree">I agree to share my Business Card to the supplier.</span><br>
+            <input id="submit-botton" type="submit" value="CONFIRM ORDER">
+        </div>
+         </div>
+</div>
+</body>
+</html>
