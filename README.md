@@ -9,7 +9,7 @@ IT graduate (National Diploma 2025, Higher Certificate Cum Laude 2022) with expe
 ## 🛠️ Technical Skills  
 - **Languages:** C#, Dart, JavaScript, SQL, HTML5, CSS  
 - **Frameworks:** Flutter, ASP.NET Core, Firebase  
-- **Tools:** Git, GitHub, Linux, VS Code  
+- **Tools:** Git, GitHub, Linux, VS Code, Visual Studio, Android Studio  
 - **Databases:** Oracle SQL, Firebase Realtime DB  
 
 ## 💼 Professional Experience  
