@@ -8,8 +8,8 @@
 
 📍 Bloemfontein, Free State, South Africa  
 🎓 IT Graduate - Diploma (2025), Higher Certificate Cum Laude (2022) - Central University of Technology  
-💼 Currently: Frontend & Product Lead at Nexmotion Technologies  
-🌐 Portfolio: [thabangmokotedi.com](https://thabangmokotedi.com)
+💼 Currently: Frontend & Product Lead at Nexmotion Technologies [Unemployed IT Grad] 
+🌐 Portfolio: [ubiquitous-peony-fe040f.netlify.app](https://ubiquitous-peony-fe040f.netlify.app/)
 
 ---
 
@@ -55,7 +55,7 @@ Software Developer with proven expertise in **C#**, **.NET Core**, and **full-st
 ### Frontend & Product Lead | Nexmotion Technologies
 **Shareholder & Lead Developer** | March 2025 - Present
 
-- 🚀 Joined technology startup as a 20% equity partner, contributing to business growth and technical development.
+- 🚀 Joined technology startup as an equity partner, contributing to business growth and technical development.
 - 💻 Lead frontend development and product strategy.
 - 🌐 Developed and deployed 2 live production websites serving active clients.
 - 🔧 Work with modern web technologies to deliver scalable, user-centric solutions.
@@ -128,7 +128,7 @@ Software Developer with proven expertise in **C#**, **.NET Core**, and **full-st
   <a href="mailto:thabangmokotedi38@gmail.com">
     <img src="https://img.shields.io/badge/Email-thabangmokotedi38@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://thabangmokotedi.com">
+  <a href="https://ubiquitous-peony-fe040f.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   <a href="tel:+27680853688">
@@ -139,3 +139,8 @@ Software Developer with proven expertise in **C#**, **.NET Core**, and **full-st
 ---
 
 ## 💡 Core Competencies
+✓ Software Architecture Design ✓ C# & .NET Development
+✓ Full-Stack Development ✓ Database Design & Optimization
+✓ Software Testing & Debugging ✓ Algorithm Design & Implementation
+✓ Technical Documentation ✓ Team Collaboration
+✓ Agile Methodologies ✓ Continuous Learning & Adaptation ✓ AI Proeficient
