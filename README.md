@@ -20,7 +20,7 @@ Software Developer with proven expertise in **C#**, **.NET Core**, and **full-st
 ### 🔥 What I'm passionate about:
 - 🔭 Building innovative **inventory management systems** using C# and SQL
 - 🌱 Writing **clean code** following **best practices** and **design patterns**
-- 💡 Creating responsive user experiences with **ASP.NET**, **MVC**, **Flutter**, and **React**
+- 💡 Creating responsive user experiences with **ASP.NET**, **MVC**, **Flutter**, and **React** (Self-learn)
 - 🎯 Contributing to development teams that value **quality** and **innovation**
 - ⚡ Continuously learning and growing with **8/10 distinctions** in my Higher Certificate
 
