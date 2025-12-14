@@ -107,7 +107,7 @@ Software Developer with proven expertise in **C#**, **.NET Core**, and **full-st
 
 ### 🔹 Nexmotion Technologies - Live Client Websites
 - **Tech Stack:** Modern web technologies, responsive design
-- **Role:** Frontend & Product Lead (20% shareholder)
+- **Role:** Frontend & Product Lead (Shareholder)
 - **Status:** Live and operational
 - **Note:** Code is proprietary. Demos and case studies available upon request.
 
