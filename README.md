@@ -57,7 +57,7 @@ Software Developer with proven expertise in **C#**, **.NET Core**, and **full-st
 
 - 🚀 Joined technology startup as an equity partner, contributing to business growth and technical development.
 - 💻 Lead frontend development and product strategy.
-- 🌐 Developed and deployed 2 live production websites serving active clients.
+- 🌐 Developed and deployed multiple live production websites serving active clients.
 - 🔧 Work with modern web technologies to deliver scalable, user-centric solutions.
 - 🤝 Collaborate on business development and technical architecture.
 
