@@ -8,7 +8,7 @@
 
 📍 Bloemfontein, Free State, South Africa  
 🎓 IT Graduate - Diploma (2025), Higher Certificate Cum Laude (2022) - Central University of Technology  
-💼 Currently: Frontend & Product Lead at Nexmotion Technologies [Unemployed IT Grad] 
+💼 Currently: Head of Product Engineering at Nexmotion Technologies [Unemployed IT Grad] 
 🌐 Portfolio: [ubiquitous-peony-fe040f.netlify.app](https://ubiquitous-peony-fe040f.netlify.app/)
 
 ---
