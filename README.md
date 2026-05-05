@@ -1,146 +1,169 @@
-# 👋 Hi, I'm Thabang Livington Mokotedi
-
-[![Profile Views](https://komarev.com/ghpvc/?username=ThabangmokotedI&style=for-the-badge)](https://github.com/ThabangmokotedI)
-[![GitHub followers](https://img.shields.io/github/followers/ThabangmokotedI?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThabangmokotedI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/thabang-mokotedi-241ab72b5)
-
-**Software Developer | C# | .NET Core | ASP.NET | Full-Stack Development**
-
-📍 Bloemfontein, Free State, South Africa  
-🎓 IT Graduate - Diploma (2025), Higher Certificate Cum Laude (2022) - Central University of Technology  
-💼 Currently: Head of Product Engineering at Nexmotion Technologies [Unemployed IT Grad] 
-🌐 Portfolio: [ubiquitous-peony-fe040f.netlify.app](https://ubiquitous-peony-fe040f.netlify.app/)
-
----
-
-## 🚀 About Me
-
-Software Developer with proven expertise in **C#**, **.NET Core**, and **full-stack development**. I build quality, scalable solutions with a strong foundation in software architecture, testing methodologies, and problem-solving. 
-
-### 🔥 What I'm passionate about:
-- 🔭 Building innovative **inventory management systems** using C# and SQL
-- 🌱 Writing **clean code** following **best practices** and **design patterns**
-- 💡 Creating responsive user experiences with **ASP.NET**, **MVC**, **Flutter**, and **React** (Self-learn)
-- 🎯 Contributing to development teams that value **quality** and **innovation**
-- ⚡ Continuously learning and growing with **8/10 distinctions** in my Higher Certificate
-
----
-
-## 🛠️ Technical Skills
-
-### **Core Development**
-| C# | .NET Core | ASP.NET |
-|:---:|:---:|:---:|
-| ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) | ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) |
-
-### **Frontend Technologies**
-| HTML5 | CSS3 | JavaScript | Flutter | React | TypeScript |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-
-### **Database & Backend**
-| SQL | Oracle | Firebase |
-|:---:|:---:|:---:|
-| ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
-
-### **Tools & Methodologies**
-| Git | GitHub | Visual Studio | Linux | Agile | Testing |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | ![Agile](https://img.shields.io/badge/Agile-E10098?style=for-the-badge&logo=agile&logoColor=white) | ![Testing](https://img.shields.io/badge/Testing-FF5733?style=for-the-badge&logo=junit&logoColor=white) |
-
----
-
-## 💼 Professional Experience
-
-### Frontend & Product Lead | Nexmotion Technologies
-**Shareholder & Lead Developer** | March 2025 - Present
-
-- 🚀 Joined technology startup as an equity partner, contributing to business growth and technical development.
-- 💻 Lead frontend development and product strategy.
-- 🌐 Developed and deployed multiple live production websites serving active clients.
-- 🔧 Work with modern web technologies to deliver scalable, user-centric solutions.
-- 🤝 Collaborate on business development and technical architecture.
-
-### Work Integrated Learning | Central University of Technology
-**Software Development Team** | June 2024 - December 2024
-
-- 📦 Collaborated on internal **inventory management system** using **C#** and **SQL**
-- 🔍 Conducted comprehensive software testing, identifying and resolving **40+ UI/UX issues**
-- 🛠️ Implemented bug fixes and enhancements following established coding standards
-- 📚 Created technical documentation including specifications, user guides, and system architecture diagrams
-- 👥 Participated in code reviews and team knowledge sharing sessions
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThabangmokotedI&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThabangmokotedI&layout=compact&theme=radical&hide_border=true&langs_count=10" width="400">
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThabangmokotedI&theme=radical&hide_border=true" width="600">
+# Thabang Mokotedi
+
+*ERP Support Technician · Software Developer · Equity Partner @ NexMotion Technologies*
+
+Building systems that actually work — from enterprise ERP to live fintech products.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thabang-mokotedi-241ab72b5)
+[![Portfolio](https://img.shields.io/badge/Portfolio-059669?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ubiquitous-peony-fe040f.netlify.app)
+[![BidCalc](https://img.shields.io/badge/BidCalc-0A1628?style=for-the-badge&logo=googlechrome&logoColor=00C4CC)](https://bidcalculator.co.za)
+[![NexMotion](https://img.shields.io/badge/NexMotion_Technologies-10B981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nexmotiontechnologies.co.za)
+
 </div>
 
 ---
 
-## 🏆 Achievements & Certifications
+## About
 
-### 🎓 Education
-- **Diploma in Information Technology** (2025)
-  - Distinctions in Software Development I
-  - Technical Programming II (88%)
-  - Internet Programming I (88%)
-- **Higher Certificate in IT - Cum Laude** (2022)
-  - Top 10% of graduating cohort
-  - 8/10 distinctions
+I work at the intersection of business and technology — supporting Microsoft Dynamics 365 Finance & Operations across live enterprise environments while building practical software people can actually use.
 
-### 📜 Certifications
-- **Digital Literacy** - NEMISA/Microsoft (2022)
-- **IT Essentials: PC Hardware & Software** - Cisco Networking Academy (2022)
-- **Information Systems IA & IB** - Cisco Networking Academy (2021-2022)
+Currently maintaining D365 F&O for *POLMED* (South Africa's police medical aid scheme) across 7 active workstreams via The Naked Scientists in Pretoria. Equity Partner and Head of Product Engineering at *NexMotion Technologies, where I've shipped 10+ live production websites and co-built **Pampiri* — a receipt scanning mobile app for South African fleet operators.
+
+I entered my D365 role with zero prior enterprise ERP experience. Everything I know about it was built hands-on through system use, process map study, and self-directed learning. That is not a weakness — that is how I work.
 
 ---
 
-## 🎯 Featured Projects
+## What I'm Working On
 
-### 🔹 Nexmotion Technologies - Live Client Websites
-- **Tech Stack:** Modern web technologies, responsive design
-- **Role:** Frontend & Product Lead (Shareholder)
-- **Status:** Live and operational
-- **Note:** Code is proprietary. Demos and case studies available upon request.
-
-### 🔹 Inventory Management System (Academic Project)
-- **Tech Stack:** C#, SQL, ASP.NET
-- **Features:** CRUD operations, user authentication, reporting dashboard
-- **Impact:** Resolved 40+ UI/UX issues, implemented performance optimizations
-- **Note:** Built at Central University of Technology. Source code unavailable (academic project completed before Git adoption).
+- 🏢 *D365 F&O Support* — maintaining 7 workstreams (Finance, Procurement, Contracts, Travel, CRM, Human Capital, Inventory) for POLMED
+- 📱 *Pampiri* — receipt scanning app for SA fleet operators · [mypampiri.co.za](https://mypampiri.co.za)
+- 🧮 *BidCalc* — SA car auction calculator PWA · [bidcalculator.co.za](https://bidcalculator.co.za)
+- 🌐 *NexMotion Client Sites* — 10+ live deployments across legal, hospitality, construction, NGO sectors
 
 ---
 
-## 📫 Let's Connect
+## Tech Stack
+
+### ERP & Enterprise
+![D365](https://img.shields.io/badge/Dynamics_365_F%26O-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+### Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Frameworks & Libraries
+![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Tools & Platforms
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+## Featured Projects
+
+### 🧮 BidCalc — SA Car Auction Calculator
+> Progressive Web App for South African car auction buyers
+
+*The problem:* Most SA auction calculators apply VAT incorrectly. BidCalc models the correct 15% VAT structure, verified against real Aucor invoices — a deliberate distinction from every existing tool.
+
+- Fully offline via service worker · installable on Android and iOS
+- Auction house presets (Aucor, Bid or Buy, M&C) · calculation history · WhatsApp share
+- POPIA-compliant GA4 analytics · zero cookie banners · zero framework dependencies
+- Full SEO stack: JSON-LD structured data, Open Graph, sitemap, Google Search Console verified
+
+*Stack:* Vanilla JavaScript · PWA / Service Worker · Google Analytics 4 · Custom SVG icon system
+
+🔗 [bidcalculator.co.za](https://bidcalculator.co.za)
+
+---
+
+### 📱 Pampiri — Receipt Scanning App
+> Flutter mobile app replacing WhatsApp receipt tracking for SA fleet operators
+
+*The problem:* Fleet managers spend hours every month-end chasing blurry WhatsApp receipt photos from drivers. Pampiri replaces the entire flow — drivers scan, managers export.
+
+- OCR-powered receipt scanning with structured data extraction
+- Multi-driver support with per-driver expense tracking
+- One-tap export to Excel, PDF, and CSV
+- POPIA-compliant · Live on Google Play
+
+*Stack:* Flutter · Dart · Firebase · Firestore
+
+🔗 [mypampiri.co.za](https://mypampiri.co.za) &nbsp;|&nbsp; Part of [NexMotion Technologies](https://nexmotiontechnologies.co.za)
+
+---
+
+### 🌐 NexMotion Client Portfolio
+> 10+ live production websites across diverse sectors
+
+Full-stack delivery across legal, hospitality, construction, student housing, NGO and media sectors. Includes a full CMS platform with Firebase authentication, role-based access control, real-time booking integrations, and POPIA-compliant data intake.
+
+*Stack:* React · HTML/CSS/JavaScript · Tailwind CSS · Firebase · Flutter · WordPress
+
+🔗 [nexmotiontechnologies.co.za/projects.html](https://nexmotiontechnologies.co.za/projects.html)
+
+---
+
+## How I Work
+
+
+Problem first, code second       — I understand before I build
+Clean over clever                — Maintainable systems over smart shortcuts
+Adapts fast                      — Zero D365 experience to 7 live workstreams in weeks
+Bridges business and technical   — I think in both directions simultaneously
+Ships real things                — BidCalc is live. Pampiri is live. 10+ client sites are live.
+Collaborative by default         — I've coordinated between CTO, CEO, and marketing daily
+
+
+---
+
+## Experience Highlights
+
+| Role | Where | When |
+|------|--------|------|
+| ERP Support Technician | The Naked Scientists → POLMED | Apr 2026 – Present |
+| Head of Product Engineering & Equity Partner | NexMotion Technologies | Mar 2025 – Present |
+| Web Application Developer | Kinetixes Engineering | Feb – Mar 2026 |
+| Educator Assistant | Central University of Technology | Jun – Nov 2025 |
+| WIL Software Developer | Central University of Technology | Jun – Dec 2024 |
+
+---
+
+## Education
+
+🎓 *Diploma in Information Technology* · Central University of Technology · Sep 2025
+- Distinctions: Software Development I · Technical Programming II B (88%) · Internet Programming I (88%)
+
+🏅 *Higher Certificate in IT — Cum Laude* · Central University of Technology · 2022
+- Top 10% of graduating cohort · 8 out of 10 Distinctions
+
+---
+
+## Certifications
+
+- ✅ Digital Literacy — NEMISA / Microsoft · 2022
+- ✅ IT Essentials: PC Hardware & Software — Cisco Networking Academy · 2022
+- ✅ Information Systems IA & IB — Cisco Networking Academy · 2021–2022
+
+---
+
+## Contact
+
+| | |
+|---|---|
+| 📧 Email | [thabangmokotedi38@gmail.com](mailto:thabangmokotedi38@gmail.com) |
+| 📞 Phone | 068 085 3688 |
+| 💼 LinkedIn | [thabang-mokotedi-241ab72b5](https://linkedin.com/in/thabang-mokotedi-241ab72b5) |
+| 🌐 Portfolio | [ubiquitous-peony-fe040f.netlify.app](https://ubiquitous-peony-fe040f.netlify.app) |
+| 🏢 Company | [nexmotiontechnologies.co.za](https://nexmotiontechnologies.co.za) |
+
+---
 
 <div align="center">
-  <a href="https://linkedin.com/in/thabang-mokotedi-241ab72b5">
-    <img src="https://img.shields.io/badge/LinkedIn-Thabang_Mokotedi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:thabangmokotedi38@gmail.com">
-    <img src="https://img.shields.io/badge/Email-thabangmokotedi38@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://ubiquitous-peony-fe040f.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="tel:+27680853688">
-    <img src="https://img.shields.io/badge/Phone-+27_68_085_3688-34A853?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
-  </a>
+
+Based in Pretoria, South Africa · Open to full-time roles in software development, enterprise systems, or product engineering
+
 </div>
-
----
-
-## 💡 Core Competencies
-✓ Software Architecture Design ✓ C# & .NET Development
-✓ Full-Stack Development ✓ Database Design & Optimization
-✓ Software Testing & Debugging ✓ Algorithm Design & Implementation
-✓ Technical Documentation ✓ Team Collaboration
-✓ Agile Methodologies ✓ Continuous Learning & Adaptation ✓ AI Proeficient
