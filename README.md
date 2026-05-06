@@ -36,48 +36,42 @@ const thabang = {
 
 | Project | What it does | Stack | Link |
 |---|---|---|---|
-| **🧮 BidCalc** | SA car auction calculator — correct 15% VAT modelling verified against real Aucor invoices. Fully offline PWA, installable on Android & iOS, POPIA-compliant. | Vanilla JS · PWA · GA4 | [▶ Live](https://bidcalculator.co.za) |
-| **📱 Pampiri** | Receipt scanning app for SA fleet operators — replaces WhatsApp receipt chaos with OCR scanning, per-driver tracking, and one-tap Excel/PDF/CSV export. | Flutter · Firebase · Dart | [▶ Google Play](https://play.google.com/store/apps/details?id=com.nexmotiontechnologies.pampiri) |
-| **🌐 NexMotion Sites** | 10+ live production websites — legal, hospitality, construction, NGO, education. Firebase auth, role-based CMS, real-time booking, POPIA-compliant. | React · Tailwind · Firebase | [▶ Portfolio](https://nexmotiontechnologies.co.za/projects.html) |
-| **🏥 Medical Aid UAT** | Coordinated UAT for POLMED's mobile app across Android & Huawei — issue trackers, change request reports, stakeholder documentation throughout lifecycle. | D365 · UAT · Issue Tracking | Enterprise |
-| **📅 CUT Booking System** | Cross-platform appointment system: Flutter + Firebase mobile app syncing in real time with a C# / ASP.NET web app. | Flutter · Firebase · C# · ASP.NET | WIL |
+| **BidCalc** | SA car auction calculator — correct 15% VAT modelling verified against real Aucor invoices. Fully offline PWA, installable on Android & iOS, POPIA-compliant. | <img src="https://skillicons.dev/icons?i=js,html,css" height="20" /> | [▶ Live](https://bidcalculator.co.za) |
+| **Pampiri** | Receipt scanning app for SA fleet operators — replaces WhatsApp receipt chaos with OCR scanning, per-driver tracking, and one-tap Excel/PDF/CSV export. | <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" height="20" /> | [▶ Google Play](https://play.google.com/store/apps/details?id=com.nexmotiontechnologies.pampiri) |
+| **NexMotion Sites** | 10+ live production websites — legal, hospitality, construction, NGO, education. Firebase auth, role-based CMS, real-time booking, POPIA-compliant. | <img src="https://skillicons.dev/icons?i=react,tailwind,firebase,wordpress" height="20" /> | [▶ Portfolio](https://nexmotiontechnologies.co.za/projects.html) |
+| **Medical Aid UAT** | Coordinated UAT for POLMED's mobile app across Android & Huawei — issue trackers, change request reports, stakeholder documentation throughout lifecycle. | <img src="https://skillicons.dev/icons?i=azure" height="20" /> D365 · UAT | Enterprise |
+| **CUT Booking System** | Cross-platform appointment system: Flutter + Firebase mobile app syncing in real time with a C# / ASP.NET web app. | <img src="https://skillicons.dev/icons?i=flutter,firebase,cs,dotnet" height="20" /> | WIL |
 
 ---
 
 ## Stack
 
-**ERP & Enterprise**
-
-![D365](https://img.shields.io/badge/Dynamics_365_F%26O-ECFDF5?style=flat-square&logo=microsoft&logoColor=059669)
-![Azure](https://img.shields.io/badge/Azure-ECFDF5?style=flat-square&logo=microsoft-azure&logoColor=059669)
-![SharePoint](https://img.shields.io/badge/SharePoint-ECFDF5?style=flat-square&logo=microsoft-sharepoint&logoColor=059669)
+<div align="center">
 
 **Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-ECFDF5?style=flat-square&logo=javascript&logoColor=059669)
-![C#](https://img.shields.io/badge/C%23-ECFDF5?style=flat-square&logo=csharp&logoColor=059669)
-![Dart](https://img.shields.io/badge/Dart-ECFDF5?style=flat-square&logo=dart&logoColor=059669)
-![SQL](https://img.shields.io/badge/SQL-ECFDF5?style=flat-square&logo=mysql&logoColor=059669)
+<br/>
+<img src="https://skillicons.dev/icons?i=js,cs,dart,mysql" height="40" />
 
 **Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-ECFDF5?style=flat-square&logo=react&logoColor=059669)
-![Flutter](https://img.shields.io/badge/Flutter-ECFDF5?style=flat-square&logo=flutter&logoColor=059669)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-ECFDF5?style=flat-square&logo=tailwindcss&logoColor=059669)
-![PWA](https://img.shields.io/badge/PWA_/_Service_Worker-ECFDF5?style=flat-square&logo=googlechrome&logoColor=059669)
+<br/>
+<img src="https://skillicons.dev/icons?i=react,flutter,tailwind,html,css" height="40" />
 
 **Backend & Infrastructure**
+<br/>
+<img src="https://skillicons.dev/icons?i=dotnet,firebase,git,linux" height="40" />
 
-![ASP.NET](https://img.shields.io/badge/ASP.NET_Core-ECFDF5?style=flat-square&logo=dotnet&logoColor=059669)
-![Firebase](https://img.shields.io/badge/Firebase-ECFDF5?style=flat-square&logo=firebase&logoColor=059669)
-![GitHub](https://img.shields.io/badge/GitHub-ECFDF5?style=flat-square&logo=github&logoColor=059669)
-![Linux](https://img.shields.io/badge/Linux-ECFDF5?style=flat-square&logo=linux&logoColor=059669)
+**Cloud & ERP**
+<br/>
+<img src="https://skillicons.dev/icons?i=azure" height="40" />
+&nbsp;
+![D365](https://img.shields.io/badge/Dynamics_365_F%26O-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoft-sharepoint&logoColor=white)
 
-**Design & Analytics**
+**Design & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,wordpress,vscode" height="40" />
 
-![Figma](https://img.shields.io/badge/Figma-ECFDF5?style=flat-square&logo=figma&logoColor=059669)
-![GA4](https://img.shields.io/badge/Google_Analytics_4-ECFDF5?style=flat-square&logo=googleanalytics&logoColor=059669)
-![SEO](https://img.shields.io/badge/SEO_/_JSON--LD-ECFDF5?style=flat-square&logo=googlesearchconsole&logoColor=059669)
+</div>
 
 ---
 
@@ -89,7 +83,7 @@ const thabang = {
 
 | Stats | Top Languages |
 |---|---|
-| ![Stats](https://github-readme-stats-three-bice.vercel.app/api?username=ThabangMokotedI&theme=transparent&hide_border=true&show_icons=true&icon_color=059669&title_color=059669&text_color=1e293b) | ![Languages](https://github-readme-stats-three-bice.vercel.app/api/top-langs/?username=ThabangMokotedI&layout=compact&theme=transparent&hide_border=true&title_color=059669&text_color=1e293b) |
+| ![Stats](https://github-readme-stats-three-bice.vercel.app/api?username=ThabangMokotedI&theme=transparent&hide_border=true&show_icons=true&icon_color=059669&title_color=059669&text_color=94a3b8) | ![Languages](https://github-readme-stats-three-bice.vercel.app/api/top-langs/?username=ThabangMokotedI&layout=compact&theme=transparent&hide_border=true&title_color=059669&text_color=94a3b8) |
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThabangMokotedI&bg_color=f0fdf4&color=059669&line=059669&point=065f46&area=true&hide_border=true)](https://github.com/ThabangMokotedI)
 
