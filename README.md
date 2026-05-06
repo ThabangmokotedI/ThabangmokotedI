@@ -87,9 +87,9 @@ const thabang = {
 
 [![Streak](https://streak-stats.demolab.com?user=ThabangMokotedI&theme=transparent&hide_border=true&ring=059669&fire=059669&currStreakLabel=059669&dates=64748b&sideLabels=059669&sideNums=059669)](https://github.com/ThabangMokotedI)
 
-| Repos by Language | Most Committed |
+| Stats | Top Languages |
 |---|---|
-| ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ThabangMokotedI&theme=github_dark) | ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ThabangMokotedI&theme=github_dark) |
+| ![Stats](https://github-readme-stats-three-bice.vercel.app/api?username=ThabangMokotedI&theme=transparent&hide_border=true&show_icons=true&icon_color=059669&title_color=059669&text_color=1e293b) | ![Languages](https://github-readme-stats-three-bice.vercel.app/api/top-langs/?username=ThabangMokotedI&layout=compact&theme=transparent&hide_border=true&title_color=059669&text_color=1e293b) |
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ThabangMokotedI&bg_color=f0fdf4&color=059669&line=059669&point=065f46&area=true&hide_border=true)](https://github.com/ThabangMokotedI)
 
